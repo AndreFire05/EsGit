@@ -1,6 +1,4 @@
-# EsGit
-esercizio git
-Esercizio 1
+
 
 creare un progetto da zero su github con un readme di default
 scaricare il progetto con clone e fare un commit
@@ -14,3 +12,4 @@ Il manager scarica i branch, fa i merge sul main e lo carica
 I dev riaggiornano il loro main
 Esercizio 4
 Come l'esercizio 3, ma usando le pull/merge request
+
